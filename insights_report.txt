@@ -1,0 +1,19 @@
+CODEALPHA INTERNSHIP PROJECT: EDA AND DATA VISUALIZATION
+
+Dataset rows: 24
+Total units sold: 309
+Total revenue: 44,415.00
+Highest-revenue product: Backpack (25,500.00)
+Highest-revenue region: West (16,170.00)
+Highest-revenue month: 2026-03 (17,925.00)
+Missing values: 0
+Duplicate rows: 0
+
+Charts created:
+- revenue_by_product.png
+- monthly_revenue.png
+- units_by_category.png
+- order_revenue_histogram.png
+
+Note: This is a small sample dataset created for learning and demonstration.
+Do not present it as real company data.
